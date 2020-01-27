@@ -9,4 +9,4 @@ Upon running the program, the user will experience a variety of radomly generate
 
 ![Rorschach Image](Images/Figure_8.png)
 
-# NOTICE: This is a basic python, highschool program, and is not intended to be used for any sort of medical diagnostics.
+NOTICE: This is a simple program, and is no way intended to be used for any sort of medical diagnostics. Please use at your own discretion and enjoyment. 
